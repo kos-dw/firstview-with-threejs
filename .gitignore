@@ -1,0 +1,7 @@
+.temp
+.env*
+.bak
+.DS_Store
+node_modules
+*.log
+dist
